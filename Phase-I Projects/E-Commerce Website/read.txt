@@ -1,1 +1,4 @@
-
+admin login: Login as a user, there you can find a column as admin. There you can sign in as admin.
+ADMIN LOGIN:
+USER NAME: coderscave
+PASSWORD: welcome
