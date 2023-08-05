@@ -1,0 +1,15 @@
+{
+    "name": "Online Code Editor - Coders Cave",
+    "short_name": "Online Code Editor",
+    "description": "Created for the Coders Cave Webdevelopment Project",
+    "start_url": "/?homescreen=1",
+    "display": "standalone",
+    "background_color": "#212121",
+    "theme_color": "#212121",
+    "icons": [{
+      "src": "assets/icon2.png",
+      "sizes": "512X512",
+      "type": "image/png"
+    }]
+  }
+  
